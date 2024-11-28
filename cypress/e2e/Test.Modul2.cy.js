@@ -1,6 +1,3 @@
-
-
-
 describe("user visit GoIT page", () => {
     
 beforeEach("go to page", () =>{
